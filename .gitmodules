@@ -1,0 +1,3 @@
+[submodule "kolala"]
+	path = kolala
+	url = https://github.com/mapledyne/kolala.git
